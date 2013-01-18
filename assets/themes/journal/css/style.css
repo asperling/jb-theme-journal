@@ -27,3 +27,12 @@ body {
 .tag_box {
   margin-bottom: 2em;
 }
+
+.post .tag_box {
+  list-style: none;
+  margin-left: 0;
+}
+
+.post .tag_box .btn {
+  margin: 0 5px 5px 0;
+}
