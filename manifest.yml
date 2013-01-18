@@ -1,0 +1,6 @@
+name : "journal"
+website :  "https://github.com/asperling/jb-theme-journal"
+description :  "A minimalistic theme for Jekyll + Jekyll-Bootstrap based on Bootswatch Journal."
+author:
+  name : "Achim Wolf Sperling"
+  email : "achim.sperling@gmail.com"
